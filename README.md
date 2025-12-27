@@ -1,3 +1,3 @@
 # git-demo
 This is my first Git Repository.<br>
-Author - Krushali Savaria
+Author - Krushali 
